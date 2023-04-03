@@ -1,9 +1,8 @@
-##  Olá! Eu sou o Thiago Carvalho
+##  Olá! Eu sou Thiago Carvalho
 
 - 🔭 À procura de um estágio
 - 🌱 Cursando Ciência da computação - UNA
 - 👯 Contate-me no email: contactthiagocarvalho@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/ImThigas">
