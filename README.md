@@ -1,8 +1,13 @@
-##  Olá! Eu sou Thiago Carvalho
+# 🌟 Hello, I'm Thiago Carvalho! 👋    
 
-- 🌱 Cursando Ciência da computação - UNA
-- ✉️ Contate-me no email: contactthiagocarvalho@gmail.com
+Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de tecnologia, com foco no desenvolvimento de software e sempre em busca de aprender e aplicar novos conhecimentos na prática. 🚀 
 
+## 🧑‍💻 About Me 
+🎓 **Formação:** Estudante de Ciência da Computação na UNA, com interesse em desenvolvimento de software e qualidade de sistemas.  
+💼 **Objetivo:** Procurando oportunidades como desenvolvedor júnior ou estágio em tecnologia para colocar em prática meus estudos e contribuir com projetos desafiadores.  
+
+
+## 📊 Contributions & Most Used Languages
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ImThigas&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ImThigas&show_icons=true&theme=radical&layout=compact" />
@@ -21,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
