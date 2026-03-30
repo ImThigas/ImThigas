@@ -3,8 +3,8 @@
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de tecnologia, com foco no desenvolvimento de software e sempre em busca de aprender e aplicar novos conhecimentos na prática. 🚀 
 
 ## 🧑‍💻 Sobre mim
-🎓 **Formação:** Estudante de Ciência da Computação na UNA, com interesse em desenvolvimento de software e qualidade de sistemas.  
-💼 **Objetivo:** Procurando oportunidades como desenvolvedor júnior ou estágio em tecnologia para colocar em prática meus estudos e contribuir com projetos desafiadores.  
+🎓 **Formação:** Bacharel em Ciência da Computação, com interesse em desenvolvimento de software e qualidade de sistemas.  
+💼 **Objetivo:** Procurando oportunidades como desenvolvedor júnior ou Trainee em tecnologia para colocar em prática meus estudos e contribuir com projetos desafiadores.  
 
 
 ## 📊 Contribuições & Linguagens Mais Utilizadas
