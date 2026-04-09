@@ -1,6 +1,6 @@
 #  Olá, sou Thiago Carvalho! 👋    
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de tecnologia, com foco no desenvolvimento de software e sempre em busca de aprender e aplicar novos conhecimentos na prática. 🚀 
+Bem-vindo(a) ao meu perfil no GitHub! Tenho foco em desenvolvimento de software e estou sempre aprendendo coisas novas e criando projetos para colocar meu conhecimento em prática. 🚀
 
 ## 🧑‍💻 Sobre mim
 🎓 **Formação:** Bacharel em Ciência da Computação, com interesse em desenvolvimento de software e qualidade de sistemas.  
